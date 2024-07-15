@@ -1,6 +1,11 @@
-# React + Vite
+MyPlanner - Todo App 
+Using React , Tailwind and Magic Ui
+Access here https://amanyadav2205.github.io/MyPlanner---Todo-App/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/ebfe5d73-8be6-4d0a-9e4f-e1b72ac9a9bc)
+
+
+
 
 Currently, two official plugins are available:
 
