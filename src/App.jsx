@@ -64,11 +64,11 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="box mx-3 md:container md:mx-auto my-6 rounded-xl p-2 min-h-[45vh] md:w-[80vh] relative">
+      <div className="box mx-3 md:container md:mx-auto my-6 rounded-xl p-2 min-h-[40vh] md:w-[80vh] relative">
         <BorderBeam />
         <NeonGradientCard >
         
-        <div className="inner-div bg-red-400 p-5 min-h-[45vh] rounded-xl">
+        <div className="inner-div bg-red-400 p-5 min-h-[40vh] rounded-xl">
         <h1 className="font-bold text-center text-2xl gap-5 font-family">
             <span className="text-violet-800">MyPlanner</span> - <span className="text-black-500">Manage your<WordRotate
       className="text-4xl font-bold text-black dark:text-white"
