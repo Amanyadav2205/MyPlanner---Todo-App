@@ -70,7 +70,7 @@ function App() {
         
         <div className="inner-div bg-red-400 p-5 min-h-[40vh] rounded-xl">
         <h1 className="font-bold text-center text-2xl gap-5 font-family">
-            <span className="text-violet-800">MyPlanner</span> - <span className="text-black-500">Manage your<WordRotate
+            <span className="text-violet-800">MyPlanner </span> - <span className="text-black-500">Manage your<WordRotate
       className="text-4xl font-bold text-black dark:text-white"
       words={["Work", "Meeting" , "Appointments"]}/>at one place</span>
           </h1>
